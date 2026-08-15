@@ -1,0 +1,17 @@
+[
+  {
+    "title": "中国政府网（离线 fixture 候选）",
+    "url": "https://www.gov.cn/",
+    "snippet": "这是离线测试记录，不代表本次运行访问过该网站，也不是已核验证据。"
+  },
+  {
+    "title": "国务院政策文件库（离线 fixture 候选）",
+    "url": "https://www.gov.cn/zhengce/",
+    "snippet": "仅供验证 schema、过滤与调用链；live_search_performed 始终为 false。"
+  },
+  {
+    "title": "应被安全过滤的私网样例",
+    "url": "http://127.0.0.1/admin",
+    "snippet": "这个恶意样例用于离线安全测试，不会作为结果返回。"
+  }
+]
