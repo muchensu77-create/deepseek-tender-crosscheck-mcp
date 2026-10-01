@@ -1,8 +1,8 @@
 aiohttp==3.14.3
 charset-normalizer==3.5.1
-ddgs==9.14.4
-mcp==2.0.0
-protego==0.6.2
-pydantic==2.13.4
+ddgs==9.16.0
+mcp==2.2.0
+protego==0.7.0
+pydantic==2.13.5
 trafilatura==2.2.0
-yarl==1.24.5
+yarl==1.25.1
